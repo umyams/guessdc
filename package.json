@@ -1,0 +1,27 @@
+{
+  "name": "guessdc",
+  "version": "1.0.0",
+  "description": "tebak menebak",
+  "main": "discord.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umyams/guessdc.git"
+  },
+  "keywords": [
+    "discord",
+    "guess"
+  ],
+  "author": "Vydha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umyams/guessdc/issues"
+  },
+  "homepage": "https://github.com/umyams/guessdc#readme",
+  "dependencies": {
+    "discord-simple-api": "^1.0.3",
+    "cubit":"^1.0.3"
+  }
+}
