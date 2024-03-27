@@ -1,7 +1,7 @@
 {
   "name": "guessdc",
-  "version": "1.0.3",
-  "description": "tebak menebak",
+  "version": "1.0.4",
+  "description": "discord guest game with many tools",
   "main": "discord.js",
   "scripts": {
     "test": "test"
@@ -14,7 +14,7 @@
     "discord",
     "guess"
   ],
-  "author": "Vydha",
+  "author": "umyam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/umyams/guessdc/issues"
