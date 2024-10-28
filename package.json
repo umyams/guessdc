@@ -22,6 +22,5 @@
   "homepage": "https://github.com/umyams/guessdc#readme",
   "dependencies": {
     "discord-simple-api": "^1.0.3",
-    "cubit":"^1.0.3"
   }
 }
